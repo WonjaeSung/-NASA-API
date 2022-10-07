@@ -11,7 +11,7 @@
 
 Created using HTML, CSS, JS and Font Awesome. Application that uses NASA Api to be able to access daily image of the day and description.
 
-**Link to project:** [Get A Star](https://nasaphotography.netlify.app/)
+**Link to project:** [NASA Photography](https://nasaphotography.netlify.app/)
 
 </div>
 
