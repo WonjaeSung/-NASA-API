@@ -9,7 +9,6 @@
 	  <img src="https://github.com/WonjaeSung/-NASA-API/blob/main/nasa.gif" width="80%" />
   </a>
 
-Created using HTML, CSS, JS and Font Awesome. Application that uses NASA Api to be able to access daily image of the day and description.
 
 **Link to project:** [NASA Photography](https://nasaphotography.netlify.app/)
 
@@ -27,7 +26,7 @@ it will show you the photopgraph with the explanation.
 
 ## How It's Made:
 
-It was created using HTML, CSS, JS and Font Awesome. One of my first application built using APIs. I like the fact that these images are coming from NASA daily! 
+Created using HTML, CSS, JS and Font Awesome. Application utilizes NASA API to be able to retrieve daily image of the day and description.
 
 ## Tech Used:
 HTML, CSS, JavaScript
@@ -36,7 +35,7 @@ HTML, CSS, JavaScript
 
 ## Lessons Learned:
 
-I learned the very basics of how WebAPI works, such as how to send requests and implement the response into my website.
+I learned the very basics of how Web API works, such as how to send requests and implement the response into my website.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
